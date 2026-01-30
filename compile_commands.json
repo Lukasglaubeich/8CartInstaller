@@ -1,0 +1,29 @@
+[
+ {
+  "directory": "/Users/lukas/Documents/GitHub/smallprojects/8CartInstaller",
+  "arguments": [
+   "arm-none-eabi-gcc",
+   "-MMD",
+   "-MP",
+   "-MF",
+   "/Users/lukas/Documents/GitHub/smallprojects/8CartInstaller/build/main.d",
+   "-g",
+   "-Wall",
+   "-O2",
+   "-ffunction-sections",
+   "-march=armv6k",
+   "-mtune=mpcore",
+   "-mfloat-abi=hard",
+   "-mtp=soft",
+   "-I/Users/lukas/Documents/GitHub/smallprojects/8CartInstaller/include",
+   "-I/opt/devkitpro/libctru/include",
+   "-I/Users/lukas/Documents/GitHub/smallprojects/8CartInstaller/build",
+   "-D__3DS__",
+   "-c",
+   "/Users/lukas/Documents/GitHub/smallprojects/8CartInstaller/source/main.c",
+   "-o",
+   "main.o"
+  ],
+  "file": "/Users/lukas/Documents/GitHub/smallprojects/8CartInstaller/source/main.c"
+ }
+]
