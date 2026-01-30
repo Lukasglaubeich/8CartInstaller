@@ -1,7 +1,14 @@
 # 8CartInstaller: A Pico-8 Cart Manager on 3DS
 The Fake-08 Game Selection is not super friendly towards having many Games.
-Thats what this app wants to change by giving a quick and easy way to manage
-which games are in the p8carts folder and which arent.
+That's what this app wants to change by giving a quick and easy way to manage
+which games are in the p8carts folder and which aren't.
+
+>   **DISCLAIMER**
+>   This project is not affiliated with or endorsed by 
+>   Lexaloffle Games or the official PICO-8 software.
+>   
+>   Fake-08 is a separate project and is not affiliated 
+>   with this application.
 
 ## How to use:
 In order to setup the app, place the .3dsx file somewhere on your SD Card and make a new Folder called "CARTS" (you can change this in code) in the root of your SD card.
@@ -9,7 +16,7 @@ Then place your Pico-8 Carts in there.
 Also make a new Folder called p8carts in the root of your SD card.
 
 Download the "Fake-08" App from the Universal Updater.
-Now you are ready to go! Open the 8CartInstaller and Select the Games you like by pressing *A*. You can check and edit your selection by pressing R.
+Now you are ready to go! Open the 8CartInstaller and Select the Games you like by pressing **A**. You can check and edit your selection by pressing R.
 If you are done start the Fake-08 App and start Gaming!
 
 ## Features:
@@ -33,7 +40,7 @@ To fetch all the games from the official download site, use scripts like:
 I would very much appreciate a pull request if anyone wants to expand this or add their own ideas or even just fix small spellling mistakes!
 
 ## Adding Features:
-Please create an issue befor you start to work so that others know what youre working on.
+Please create an issue before you start to work so that others know what youre working on.
 
 ## Pull Requests:
 When making a pull request, please keep commit messages clear and please code in a somewhat readable style.
@@ -55,3 +62,7 @@ the various examples in 3ds-examples: <https://github.com/devkitPro/3ds-examples
 * LodePNG: The library used to decode PNGs: <https://github.com/lvandeve/lodepng?tab=readme-ov-file>
 * ctrmus: A music player of which I learned about and copied the File View System: <https://github.com/deltabeard/ctrmus>
 * [Ctrulib](https://github.com/smealum/ctrulib)
+* Pico-8: Well obviously this project wouldn't be if not for this amazing piece of code: <https://www.lexaloffle.com/pico-8.php>
+* Fake-08: The App I made this project for and without i couldn't play P8 games on 3ds: <https://github.com/jtothebell/fake-08>
+
+All third-party libraries retain their respective licenses.
