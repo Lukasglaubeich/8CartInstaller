@@ -34,7 +34,7 @@ If you are done start the Fake-08 App and start Gaming!
 
 ## Where to get Games:
 To fetch all the games from the official download site, use scripts like:
-<https://github.com/icaroferre/Pico8-Cartloader> by @icaroferre
+<https://github.com/icaroferre/Pico8-Cartloader> by [@icaroferre](https://github.com/icaroferre)
 
 # Contributing:
 I would very much appreciate a pull request if anyone wants to expand this or add their own ideas or even just fix small spellling mistakes!
